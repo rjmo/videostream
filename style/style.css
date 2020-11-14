@@ -1,0 +1,18 @@
+@font-face {
+  font-family: roboto;
+  src: url(../assets/font/Roboto/Roboto-Regular.ttf);
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: roboto;
+}
+.backgroundbody {
+  margin: 0;
+  padding: 0;
+  background-color: #202c39;
+}
+.footermenu {
+  background-color: #355271;
+}
